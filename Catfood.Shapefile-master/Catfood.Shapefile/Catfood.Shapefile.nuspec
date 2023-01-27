@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Catfood.Shapefile</id>
+    <version>1.51</version>
+    <title>ESRI Shapefile Reader</title>
+    <authors>abfo</authors>
+    <owners>abfo</owners>
+    <licenseUrl>https://shapefile.codeplex.com/license</licenseUrl>
+    <projectUrl>https://shapefile.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>A library for reading Shapefiles (.shp, shx .dbf)</summary>
+    <description>
+      Shapefile is a .NET library that supports read only enumeration of ESRI shapefiles, including any metadata. All 2D shapes are supported: Point, MultiPoint, PolyLine and Polygon.
+      This library may be useful if you need to draw a set of shapes from a shapefile or convert the data to a different format.
+      This is an unofficial nuget package made from source on public repo.
+    </description>
+    <releaseNotes>See https://shapefile.codeplex.com/</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Shapefile shp shx dbf</tags>
+  </metadata>
+</package>

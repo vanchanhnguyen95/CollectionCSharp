@@ -1,0 +1,1 @@
+nuget pack Catfood.Shapefile.csproj -OutputDirectory nupkgs/ -Prop Configuration=Release -Build 
